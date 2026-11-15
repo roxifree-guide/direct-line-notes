@@ -1,0 +1,16 @@
+apiVersion: basable.com/v1
+kind: TenantConfig
+spec:
+  environments:
+    preview:
+      static: {}
+    live:
+      static: {}
+
+
+
+
+
+
+
+
